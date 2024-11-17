@@ -19,19 +19,19 @@ git clone "깃허브url"
 https://nbviewer.org/github/biskt/mlproject/blob/main/titanicproject.ipynb
 
 
-![titanic01](https://github.com/user-attachments/assets/38a6aa06-0eb1-4fbe-a39a-817cfc23cc35)
+<img src="https://github.com/user-attachments/assets/38a6aa06-0eb1-4fbe-a39a-817cfc23cc35" width="90%"></img>
 
 1. 결측치가 있는 데이터 파악하기
 
-![titanic02](https://github.com/user-attachments/assets/b01f3ded-69fe-4bbf-a5b2-fee22c8c0217)
+<img src="https://github.com/user-attachments/assets/b01f3ded-69fe-4bbf-a5b2-fee22c8c0217" width="90%"></img>
 
 2. 결측치를 제거하거나 다른 값으로 대체해서 채워넣기
 
-![titanic03](https://github.com/user-attachments/assets/9e7fc541-7244-42e7-aa25-40f571691aa1)
+<img src="https://github.com/user-attachments/assets/9e7fc541-7244-42e7-aa25-40f571691aa1" width="90%"></img>
 
 3. 훈련 데이터로 훈련시키기 위해 숫자로 통일시키기
 
-![titanic04](https://github.com/user-attachments/assets/2d2db4e4-1f32-417c-b1dd-146d7d7919bb)
+<img src="https://github.com/user-attachments/assets/2d2db4e4-1f32-417c-b1dd-146d7d7919bb" width="90%"></img>
 
 4. 결정트리, 랜덤포레스트, 로지스틱 모델로 정확도 비교해서 가장 좋은 모델로 예측하기
 
